@@ -35,3 +35,6 @@ The objective of this project is to gain practical experience in financial data 
 ## Disclaimer
 
 This project is for educational and informational purposes only. It does not constitute investment advice or a recommendation to buy or sell securities.
+## Project Preview
+
+![Pershing Square 13F Portfolio Analysis](portfolio-preview.png)
